@@ -1,0 +1,12 @@
+{
+  "author": "Terry Osayawe",
+  "description": "ACME Ecommerce webstore",
+  "private": true,
+  "dependencies": {
+    "foundation-sites": "^6.3.1",
+    "gulp": "~3.9",
+    "laravel-elixir": "~5.0.0",
+    "motion-ui": "^2.0.3",
+    "slick-carousel": "^1.8.1"
+  }
+}

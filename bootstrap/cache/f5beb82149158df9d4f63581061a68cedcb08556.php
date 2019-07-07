@@ -1,0 +1,1 @@
+<h1>page not found</h1><?php /**PATH /Applications/MAMP/htdocs/php-mvc/resources/views/errors/404.blade.php ENDPATH**/ ?>
